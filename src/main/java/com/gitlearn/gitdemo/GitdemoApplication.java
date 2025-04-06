@@ -17,8 +17,4 @@ public class GitdemoApplication {
 	public int getTwo() { 
 		return 2; 
 	}
-
-	public int getThree() {
-		return 3;
-	}
 }
